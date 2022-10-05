@@ -1,0 +1,10 @@
+/back/app/build/
+/back/app/node_modules/
+/back/app/data/*.json
+
+/frontVue/app/dist/
+/frontVue/app/node_modules/
+
+/front/drugdashboard_react/build/
+/front/drugdashboard_react/node_modules/
+/front/drugdashboard_react/build/src/cached_data/*.json

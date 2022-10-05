@@ -1,0 +1,7 @@
+{
+  "host": "dbip",
+  "port": port,
+  "user": "username",
+  "password": "password",
+  "database": "postgres"
+}

@@ -1,0 +1,21 @@
+{
+    "main_exposure_cache": "캐시스키마명.drug_dashboard_cache_final",
+    "main_exposure_cache_recent5": "캐시스키마명.drug_dashboard_cache_final_recent5",
+    "measurement_cache": "캐시스키마명.drug_dashboard_measurement_cache",
+    "drugunit_cache": "캐시스키마명.drug_dashboard_drugunit_tmp",
+    "dates_cache": "캐시스키마명.drug_dashboard_person_dates",
+    "main_schema": "CDM스키마명",
+    "institution_sourcename_column": "#######",
+    "institution_name": "기관명",
+    "ALT_code": 3006923,
+    "ALT_range": [1, 47],
+    "AST_code": 3013721,
+    "AST_range": [1, 40],
+    "Cr_code": 3016723,
+    "Cr_range": [0.4, 1.4],
+    "INR_code": 3022217,
+    "INR_range": [0.8, 1.2],
+    "TBil_code": 3024128,
+    "TBil_range": [0.2, 1.6],
+    "web_address": "http://webip:3000"
+}

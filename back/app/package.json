@@ -1,0 +1,29 @@
+{
+  "name": "asclepius-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/server.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/server.js"
+  },
+  "author": "rulyox",
+  "license": "ISC",
+  "dependencies": {
+    "@types/body-parser": "^1.19.0",
+    "@types/express": "^4.17.11",
+    "@types/pg": "^7.14.10",
+    "@types/tunnel-ssh": "^4.1.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "json-groupby": "^1.1.0",
+    "node-cache": "^5.1.2",
+    "node-redshift": "^0.1.5",
+    "pg": "^8.5.1",
+    "tunnel-ssh": "^4.1.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  }
+}

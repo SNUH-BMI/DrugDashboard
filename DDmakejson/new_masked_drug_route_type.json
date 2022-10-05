@@ -1,0 +1,6224 @@
+[
+    {
+        "omop_concept_id": 19018781,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19072240,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1127078,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19096574,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19072235,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19112656,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19072157,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19072176,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1736994,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35605718,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35605895,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35605713,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19060251,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19088169,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1337103,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40241523,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19123382,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19014209,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19029394,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19021312,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1529352,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19103575,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1703745,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1703691,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19002897,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40220937,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 40168220,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46234165,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46234177,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40173612,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42629353,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 42629350,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 42629344,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 42629345,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 35606190,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40220943,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19088330,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19107043,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1332419,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19073093,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1332419,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1332497,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 985300,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1167323,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40175779,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19073219,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35605341,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 40177829,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1309992,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40162672,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40162717,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19087108,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19073183,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19073187,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19128705,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40220676,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1713694,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19115197,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1713697,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19122203,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1114379,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1348267,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19102466,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19102465,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 757690,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19096776,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19122479,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45892182,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 45892184,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19102213,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19124358,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 43013026,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 43013030,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 781062,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19072933,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19072934,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1113143,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19021575,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19057609,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19101875,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19101728,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1333381,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 40243463,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40243474,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19009551,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 742186,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 742187,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 742188,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 742189,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 742190,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19123233,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1314008,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19018811,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19014880,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 903649,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 42629082,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19103496,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1545997,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1545997,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19123592,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19123592,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1545996,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1545996,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1545959,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1314867,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 35603389,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19073777,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19102221,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19102222,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45892114,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46287307,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 40097047,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1353578,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19107469,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 715235,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 715236,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19107271,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1344403,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 730551,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40220996,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 40221002,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 43012520,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45892456,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19123015,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 44785376,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45892534,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19030355,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42902544,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42903345,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42902413,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40222065,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40222084,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40241971,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19020131,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40162878,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40166187,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40166188,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40167431,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40167443,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1321637,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46275842,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40061114,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40162835,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19102218,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 46275983,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 46275982,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 46275988,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 40168896,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 951470,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19082680,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19107815,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40018337,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35604259,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 35604254,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19074641,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46275516,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19074697,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19074697,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19074694,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19022896,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19106229,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1101556,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19074492,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35604087,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 40173809,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1351583,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1351587,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1351559,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 974702,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19047598,
+        "id": "",
+        "route": "주사",
+        "type": "예방약"
+    },
+    {
+        "omop_concept_id": 19047598,
+        "id": "",
+        "route": "주사",
+        "type": "예방약"
+    },
+    {
+        "omop_concept_id": 46287354,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 46287358,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 1798477,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40221282,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19063928,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19029025,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19054823,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 997892,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19095325,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1350332,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1350311,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42935771,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19041844,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40163063,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163058,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19018873,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40227885,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 798875,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19023529,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19023530,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19075601,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 42949815,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19075601,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19075601,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19075601,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1718059,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 1718056,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 1797515,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46287382,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19018903,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35606512,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 40241775,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19074932,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19115230,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 950176,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19058076,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 1786843,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1786844,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19075872,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1750501,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1750562,
+        "id": "",
+        "route": "경구",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 1750562,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19058072,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19075001,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46287419,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 1710447,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40230164,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19082899,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19010484,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19082899,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19010484,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40223466,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1340161,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19074672,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19074673,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19070743,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46287328,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 46287335,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 46287328,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 46287335,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 35605996,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 46275706,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 46275711,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19074905,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 46287338,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19022781,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19022750,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1346990,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19022749,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46287363,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 40179642,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40179675,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46287338,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 800881,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 800892,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1518258,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 36249709,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 36249720,
+        "id": "",
+        "route": "주사",
+        "type": "당류"
+    },
+    {
+        "omop_concept_id": 36249736,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 36249736,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 36249734,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 36249739,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 36249739,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 36249734,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 36249738,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 35606208,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40228154,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19024730,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 1517147,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19133766,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19018909,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 723042,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35603976,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46221231,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46221237,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46221241,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19016866,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19018937,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1326437,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40160930,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1325611,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 45775747,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 43560387,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19124647,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46287476,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19107656,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19130533,
+        "id": "",
+        "route": "주사",
+        "type": "복막투석"
+    },
+    {
+        "omop_concept_id": 19130533,
+        "id": "",
+        "route": "주사",
+        "type": "복막투석"
+    },
+    {
+        "omop_concept_id": 19130536,
+        "id": "",
+        "route": "주사",
+        "type": "복막투석"
+    },
+    {
+        "omop_concept_id": 19130536,
+        "id": "",
+        "route": "주사",
+        "type": "복막투석"
+    },
+    {
+        "omop_concept_id": 968569,
+        "id": "",
+        "route": "주사",
+        "type": "복막투석"
+    },
+    {
+        "omop_concept_id": 40223778,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40223768,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40239151,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40223766,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40223776,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1719025,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 1511451,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 44785831,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163213,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35602777,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1756839,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19125237,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45892974,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40230701,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19130458,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19124392,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 36249703,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 1328689,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1328689,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19133621,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35605629,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 35605627,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 40177155,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40177140,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40177152,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40162278,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19134911,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19134913,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40238238,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40238248,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40237529,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35603900,
+        "id": "",
+        "route": "주사",
+        "type": "Schedule 약"
+    },
+    {
+        "omop_concept_id": 46233710,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1363058,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1363059,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1523312,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 715940,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19098166,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 715962,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19103434,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 45892856,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45892860,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45775083,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1738165,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19122517,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19122519,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40222616,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19077218,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40165762,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40165789,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40160973,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40160989,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 45774754,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45774893,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35605877,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19127219,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19129863,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19129864,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19129859,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19129860,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19127226,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19129861,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19076924,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 750120,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19082346,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1711248,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1711248,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1711250,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1711250,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46234148,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35606488,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19012348,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19012350,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1758538,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40175813,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40175817,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40175821,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35200596,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19135077,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19135083,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1526476,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1539469,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1526479,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 790240,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35603428,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35603430,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19017744,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19017747,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35606301,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 40169054,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1703608,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1703605,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1755001,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1754996,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19077380,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1555142,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35602752,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35602747,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35605489,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 40226581,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19077513,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19077241,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19019002,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19055186,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19077375,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35201934,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 19077463,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19077462,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35605599,
+        "id": "",
+        "route": "주사",
+        "type": "Schedule 약"
+    },
+    {
+        "omop_concept_id": 19107039,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 957136,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35603226,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46234179,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46234188,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19134957,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42902560,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42902404,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42902803,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42903228,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40169283,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19077250,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1154278,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1154279,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1154280,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 43531871,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46234373,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19077499,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40174739,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40174725,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40223807,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40223815,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40223821,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19077682,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19077548,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19077547,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19077550,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35605661,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35603174,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 35603172,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 35605123,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19077574,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19059797,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19059800,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1319194,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19123763,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 44784645,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19135442,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40165620,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40165624,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19077573,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 44785525,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1594686,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19124327,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1597772,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1597761,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1597758,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1597773,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19077738,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19077734,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 975168,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 975505,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 975193,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 42708578,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 42708583,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19021828,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 528327,
+        "id": "",
+        "route": "주사",
+        "type": "예방약"
+    },
+    {
+        "omop_concept_id": 46275229,
+        "id": "",
+        "route": "주사",
+        "type": "예방약"
+    },
+    {
+        "omop_concept_id": 40162522,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 939539,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40184084,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19078106,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40184187,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40184217,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 974226,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40174811,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19080061,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 766562,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19077930,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35603238,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40173098,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40173470,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42898236,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40173131,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40173151,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 43011896,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40167171,
+        "id": "",
+        "route": "주사",
+        "type": "예방약"
+    },
+    {
+        "omop_concept_id": 1377163,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40222636,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40222653,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19019050,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19078461,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35604184,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19078728,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19078730,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1178665,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40174360,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 978557,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19124434,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19019936,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19129198,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46233804,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46234535,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 42628951,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19078524,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19078524,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 42629497,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 535745,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 36249332,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 46233969,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46233974,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1513913,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1513915,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19101751,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35604073,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35604078,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 778296,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35604068,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19102501,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46234047,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1782573,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 793408,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35602720,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1516980,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1544872,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19135276,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46221553,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46234237,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1596956,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19103776,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19019078,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1383851,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1383869,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19022948,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19022949,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 984235,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46234440,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1718698,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46233965,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19049376,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40076078,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19133853,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46287424,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 789652,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 789621,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 789581,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19102490,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 789612,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1553611,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19011876,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19106111,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19132847,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19132859,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163630,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163626,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1742254,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1742255,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46287443,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 1742284,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46287449,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19028901,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19028902,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19028377,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19019111,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 705108,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19069199,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 705152,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 705161,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19029028,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19122306,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40239218,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19122473,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19026980,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1736892,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46276326,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19122186,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42903054,
+        "id": "",
+        "route": "주사",
+        "type": "Schedule 약"
+    },
+    {
+        "omop_concept_id": 40184727,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19017656,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40169222,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1503527,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19019112,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19019113,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46287393,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 929889,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 929953,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 929924,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19098167,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40185304,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40185276,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45774618,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 990031,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19022830,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19101553,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 711588,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 711589,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19102504,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46221548,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46221550,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 994095,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 37499759,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 19107255,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 44507582,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40222924,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19029026,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46287620,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1301270,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1301292,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 1305641,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40222885,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 993690,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 993770,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1708904,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 42628993,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19022946,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40222834,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1504672,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19103538,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1309071,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40169929,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1436651,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1506430,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35606533,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35606538,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1506426,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40224789,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40224835,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19015856,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 42629052,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19015859,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19131651,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40236419,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 964275,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40235274,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40235279,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40235286,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19021102,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19022826,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19021102,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40169894,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35605835,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40169993,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1593584,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19004269,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19128969,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35606001,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 35606006,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19063962,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19009891,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19064967,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1150926,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1150924,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19106796,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 906933,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40164929,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40164897,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19106521,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40164946,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40164894,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40164925,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19023368,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1154201,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1154195,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40167202,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19007332,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46275604,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19080187,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1707348,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19103398,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19103397,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1716905,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 725178,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 725180,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19112586,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19127417,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 35605336,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 968274,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 940005,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1314614,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19101573,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19018357,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19018353,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19107616,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19101807,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19106355,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19019337,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1325611,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40223727,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46275795,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1319136,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19019273,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40221385,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 40221385,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 40221381,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 40221386,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 40221387,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 40221384,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 40221384,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 40221387,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 40221369,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 40221390,
+        "id": "",
+        "route": "주사",
+        "type": "수액"
+    },
+    {
+        "omop_concept_id": 45775405,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1502829,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19107110,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 735844,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 721728,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19021720,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 44784878,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35605200,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 40068147,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19105647,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40166448,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40166448,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 718127,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 718128,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 718129,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 718126,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40232707,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40232730,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 792366,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40232707,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35605482,
+        "id": "",
+        "route": "주사",
+        "type": "Schedule 약"
+    },
+    {
+        "omop_concept_id": 19079171,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19005965,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19079172,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46276092,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19101743,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19101742,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19102171,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19096740,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19096752,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1525762,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35605535,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42628979,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40173295,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40173287,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1799141,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19127259,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1799160,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35604084,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 35604082,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 35604084,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19106778,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 785821,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19079153,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19022782,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19079154,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19079152,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 785842,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 734711,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45892078,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45892084,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45892088,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46276413,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19023525,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1551838,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19077245,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1550560,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1550775,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40220393,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19089603,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19112670,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 734392,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19112671,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1325611,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1381566,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 42707470,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1552382,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1552383,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1525221,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19079293,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46275427,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 46275444,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 40224399,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 703246,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 703248,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 703250,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46276191,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46276198,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40165165,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40165169,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40165177,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40173308,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40173311,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40173313,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 35604782,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19019524,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19025200,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19115249,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163983,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163985,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163312,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40163342,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1356037,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1356045,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40173888,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19060581,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19058559,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 42901852,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42901854,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42901844,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42901846,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42901848,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42901850,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163720,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163724,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19133311,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19125036,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40232259,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40237822,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 948080,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1554073,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40165642,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40165646,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19101826,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40077988,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1750297,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1750296,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40175394,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40175400,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1759456,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40167560,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19019691,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 766819,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 766842,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 766820,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19133729,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 766931,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19134838,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19134840,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19134842,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19123237,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19019699,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40236899,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19006588,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19133025,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19019700,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19019811,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19022105,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1763294,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1735948,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 44814412,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19021432,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46276430,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 35605375,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35605384,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19102170,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1334461,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1334492,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35604802,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19023425,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19023424,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19023426,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 713831,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19080241,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 713853,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 713853,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19115237,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19130462,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40238932,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42629465,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40174494,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 736021,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19079462,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 736053,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19102185,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19102162,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19102163,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40165245,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40165253,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40165261,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1712891,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40171778,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46275082,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 46275077,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 40241333,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40244444,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40244448,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 733562,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 733530,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 733563,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 733531,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19063875,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40244470,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40244474,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40244482,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1332419,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19073093,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19064494,
+        "id": "",
+        "route": "외용",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19017861,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46275732,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46275809,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46275725,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19121182,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40220497,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40220493,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35604509,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19106160,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 916008,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 916006,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40165271,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19103635,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1236611,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19058438,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1336541,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1336627,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19101746,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19101745,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19112920,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 42962067,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 42962155,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1363389,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40173865,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19096679,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19099674,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19079658,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 964362,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19125041,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19125049,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40173995,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 739209,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 739207,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1140650,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40166051,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19127952,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1539411,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40166037,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40166041,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1836433,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40220483,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40174291,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40169766,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40175050,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40175174,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40175210,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42629020,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35605552,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 42543916,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1378388,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 1378388,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 704601,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19041934,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19107132,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1758394,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19019852,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1704186,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40241188,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 950641,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19079712,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 950641,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19079712,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19079712,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 950641,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 950662,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 46275121,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46275123,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46275116,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19028826,
+        "id": "",
+        "route": "주사",
+        "type": "예방약"
+    },
+    {
+        "omop_concept_id": 42901964,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19042779,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1742434,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 40174052,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19028935,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19028936,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19005627,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19108062,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19019851,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1436683,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19082374,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19079716,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1710312,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1703093,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19041931,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19103680,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1237050,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1237054,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19019853,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40241165,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1386695,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 742304,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19028938,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1718081,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 36249275,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 19132273,
+        "id": "",
+        "route": "주사",
+        "type": "예방약"
+    },
+    {
+        "omop_concept_id": 42900586,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1103398,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1103359,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 942382,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 942385,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40163799,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19004991,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1341271,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19079718,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46275189,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 46275184,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 1594432,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 1636782,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 46275907,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 46275912,
+        "id": "",
+        "route": "주사",
+        "type": "항암제"
+    },
+    {
+        "omop_concept_id": 1343040,
+        "id": "",
+        "route": "주사",
+        "type": "Schedule 약"
+    },
+    {
+        "omop_concept_id": 40174076,
+        "id": "",
+        "route": "주사",
+        "type": "Schedule 약"
+    },
+    {
+        "omop_concept_id": 19112761,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19036799,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19036832,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19103852,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19061978,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40224655,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40160987,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40221358,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 40221355,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 1707751,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1714278,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19098164,
+        "id": "",
+        "route": "주사",
+        "type": "항생제"
+    },
+    {
+        "omop_concept_id": 19129179,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 45774669,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 35605708,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19020003,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1703065,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19079498,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19011853,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1717708,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19134632,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19103819,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40241939,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 780446,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19101835,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40171905,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1308851,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19096678,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19096677,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 1308874,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 912804,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 44506611,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 44506612,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 44506613,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163524,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40163554,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 40241455,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1524675,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19126450,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1524675,
+        "id": "",
+        "route": "주사",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 1710616,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 979097,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 979098,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 911101,
+        "id": "",
+        "route": "외용",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19066366,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 19054613,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19054611,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 19054612,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163492,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163496,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163500,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 40163504,
+        "id": "",
+        "route": "경구",
+        "type": ""
+    },
+    {
+        "omop_concept_id": 712643,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 712620,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    },
+    {
+        "omop_concept_id": 712642,
+        "id": "",
+        "route": "경구",
+        "type": "일반"
+    }
+]

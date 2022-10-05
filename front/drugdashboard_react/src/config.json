@@ -1,0 +1,11 @@
+{
+    "homepage": "http://webip:3000",
+    "server": "http://backendip:8080",
+    "institution_name": "기관명",
+    "institution_sourcename_column": "#######",
+    "ALT_code": 3006923,
+    "AST_code": 3013721,
+    "Cr_code": 3016723,
+    "INR_code": 3022217,
+    "TBil_code": 3024128
+}

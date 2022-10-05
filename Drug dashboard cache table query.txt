@@ -1,0 +1,119 @@
+1. Measurement cache table 생성
+
+CREATE TABLE 캐시스키마명.drug_dashboard_measurement_tmp AS (
+    SELECT measurement_id, person_id, measurement_concept_id, measurement_date, value_as_number
+    FROM CDM스키마명.measurement
+    WHERE measurement_concept_id in (3006923, 3013721, 3016723, 3022217, 3024128)
+);
+
+CREATE TABLE 캐시스키마명.drug_dashboard_measurement_cache AS (
+    SELECT ddmt.measurement_id, ddmt.person_id, ddmt.measurement_concept_id, p.gender_source_value, floor((EXTRACT(year FROM ddmt.measurement_date) - p.year_of_birth)/10)*10 AS age_normalized,
+        CASE WHEN ddmt.measurement_concept_id = '3006923' THEN
+                CASE WHEN ddmt.value_as_number >= 1 AND ddmt.value_as_number <= 47 THEN TRUE
+                ELSE FALSE
+            END
+            WHEN ddmt.measurement_concept_id = '3013721' THEN
+                CASE WHEN ddmt.value_as_number >= 1 AND ddmt.value_as_number <= 40 THEN TRUE
+                ELSE FALSE
+            END
+            WHEN ddmt.measurement_concept_id = '3016723' THEN
+                CASE WHEN ddmt.value_as_number >= 0.4 AND ddmt.value_as_number <= 1.4 THEN TRUE
+                ELSE FALSE
+            END
+            WHEN ddmt.measurement_concept_id = '3022217' THEN
+                CASE WHEN ddmt.value_as_number >= 0.8 AND ddmt.value_as_number <= 1.2 THEN TRUE
+                ELSE FALSE
+            END
+            WHEN ddmt.measurement_concept_id = '3024128' THEN
+                CASE WHEN ddmt.value_as_number >= 0.2 AND ddmt.value_as_number <= 1.6 THEN TRUE
+                ELSE FALSE
+            END
+        END AS is_in_range
+    FROM 캐시스키마명.drug_dashboard_measurement_tmp AS ddmt
+        INNER JOIN CDM스키마명.person AS p on ddmt.person_id = p.person_id
+);
+
+
+2. Drug unit cache 생성
+
+CREATE TABLE 캐시스키마명.drug_dashboard_drugunit_tmp AS (
+    SELECT de.drug_concept_id, de.dose_unit_source_value, scm.기관ID컬럼명
+    FROM CDM스키마명.drug_exposure de
+        INNER JOIN CDM스키마명.source_to_concept_map scm ON scm.omop_concept_id = de.drug_concept_id
+    GROUP BY de.drug_concept_id, de.dose_unit_source_value, scm.기관ID컬럼명
+    ORDER BY de.drug_concept_id
+);
+
+
+3. All dates cache 생성
+
+CREATE TABLE 캐시스키마명.drug_dashboard_person_dates AS (
+    SELECT person_id, drug_exposure_start_date AS dates FROM CDM스키마명.drug_exposure
+    UNION
+    SELECT person_id, drug_exposure_end_date AS dates FROM CDM스키마명.drug_exposure
+);
+
+
+4. Drugcount.json 생성
+
+CREATE TABLE 캐시스키마명.drug_dashboard_ingredient AS (
+	SELECT drug_concept_id, ingredient_concept_id, concept_name AS ingredient_concept_name
+	FROM CDM스키마명.drug_strength ds
+	    INNER JOIN CDM스키마명.concept c ON ds.ingredient_concept_id = c.concept_id
+	GROUP BY drug_concept_id, ingredient_concept_id, ingredient_concept_name
+);
+
+CREATE TABLE 캐시스키마명.drug_dashboard_ingredient_drug as (
+	SELECT de.drug_concept_id, ig.ingredient_concept_id, ig.ingredient_concept_name
+	FROM CDM스키마명.drug_exposure de
+		INNER JOIN 캐시스키마명.drug_dashboard_ingredient as ig ON de.drug_concept_id = ig.drug_concept_id
+	GROUP BY de.drug_concept_id, ig.ingredient_concept_id, ig.ingredient_concept_name
+);
+
+CREATE TABLE 캐시스키마명.drug_dashboard_ingredient_drug_concept as (
+    SELECT de.drug_concept_id, de.ingredient_concept_id, de.ingredient_concept_name, c.concept_name 
+    FROM 캐시스키마명.drug_dashboard_ingredient_drug de
+        INNER JOIN CDM스키마명.concept c ON de.drug_concept_id = c.concept_id 
+    GROUP BY de.drug_concept_id, de.ingredient_concept_id, de.ingredient_concept_name, c.concept_name
+    ORDER BY de.drug_concept_id
+);
+
+CREATE TABLE 캐시스키마명.drug_dashboard_ingredient_drug_concept_source AS (
+	SELECT ddidc.*, stcm.기관ID컬럼명, stcm.vocabulary, stcm.source_name
+	FROM 캐시스키마명.drug_dashboard_ingredient_drug_concept AS ddidc
+		INNER JOIN CDM스키마명.source_to_concept_map AS stcm ON ddidc.drug_concept_id = stcm.omop_concept_id
+	GROUP BY ddidc.drug_concept_id, ddidc.ingredient_concept_id, ddidc.ingredient_concept_name, ddidc.concept_name, stcm.기관ID컬럼명, stcm.vocabulary, stcm.source_name
+);
+
+
+5. Drug exposure cache 생성
+
+CREATE TABLE 캐시스키마명.drug_dashboard_exposure_grouped AS (
+	SELECT visit_occurrence_id, drug_exposure_start_date, drug_exposure_end_date, person_id, drug_concept_id, COUNT(*) AS count
+	FROM CDM스키마명.drug_exposure
+	GROUP BY visit_occurrence_id, drug_exposure_start_date, drug_exposure_end_date, person_id, drug_concept_id
+);
+
+CREATE TABLE 캐시스키마명.drug_dashboard_exposure_grouped_together AS (
+	SELECT dd.visit_occurrence_id, dd.drug_exposure_start_date, dd.drug_exposure_end_date, dd.person_id, dd.drug_concept_id, dtmp.drug_count, dd.count
+	FROM 캐시스키마명.drug_dashboard_exposure_grouped AS dd
+		INNER JOIN
+			(SELECT detmp.visit_occurrence_id, drug_exposure_start_date, COUNT(DISTINCT drug_concept_id) AS drug_count
+			FROM 캐시스키마명.drug_dashboard_exposure_grouped AS detmp
+			GROUP BY visit_occurrence_id, drug_exposure_start_date) AS dtmp
+		ON dd.visit_occurrence_id = dtmp.visit_occurrence_id AND dd.drug_exposure_start_date = dtmp.drug_exposure_start_date
+);
+
+CREATE TABLE 캐시스키마명.drug_dashboard_cache_final AS (
+    SELECT dd.visit_occurrence_id, visit_occurrence.visit_concept_id, dd.drug_exposure_start_date, dd.drug_exposure_end_date, dd.person_id, person.year_of_birth, person.gender_source_value, (EXTRACT (YEAR FROM dd.drug_exposure_start_date) - person.year_of_birth) AS exposure_age, dd.drug_concept_id, dd.drug_count, dd.count
+    FROM 캐시스키마명.drug_dashboard_exposure_grouped_together AS dd
+        INNER JOIN CDM스키마명.visit_occurrence ON dd.visit_occurrence_id = visit_occurrence.visit_occurrence_id
+        INNER JOIN CDM스키마명.person ON dd.person_id = person.person_id
+    ORDER BY dd.visit_occurrence_id
+);
+
+CREATE TABLE 캐시스키마명.drug_dashboard_cache_final_recent5 AS(
+    SELECT *
+    FROM 캐시스키마명.drug_dashboard_cache_final AS dd
+    WHERE dd.drug_exposure_start_date > '(현재 연도-6)-12-31'
+);
