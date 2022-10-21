@@ -1,5 +1,5 @@
 # DrugDashboard
-OMOP CDM 기반의 약물 연구 지원 웹사이트
+OMOP CDM 기반의 약물 연구 지원 웹사이트입니다.
 
 ## 구성도
 ![Drug dashboard 개발 진행 상황 (3)](https://user-images.githubusercontent.com/19829142/197145819-f5e532a6-1ea5-4424-8a68-2bcc2454b315.png)
